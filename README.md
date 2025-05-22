@@ -1,5 +1,5 @@
 # 💫 Ayush Kumar Patel
-🔭 I’m currently working on an Android and React Project<br>🌱 I am currently pursuing a Bachelor's degree.
+🌱 I am currently pursuing a Bachelor's degree.
 
 
 ## 🌐 Socials:
